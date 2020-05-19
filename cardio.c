@@ -1,6 +1,6 @@
 /*
-http://marmsx.msxall.com/artigos/gravidade.pdf
-Versao em C da rotina em BASIC do artigo
+Curva de Cardioide
+usando tabela de senos e cossenos.
 */
 
 #include "fusion-c/header/msx_fusion.h"
